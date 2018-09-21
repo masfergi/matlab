@@ -19,3 +19,5 @@ sQAM = qammod(dec_msg,M);
 
 R_sQAM = real(sQAM);
 I_sQAM = imag(sQAM);
+
+%DEMODULASI
