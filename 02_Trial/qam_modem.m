@@ -21,3 +21,4 @@ R_sQAM = real(sQAM);
 I_sQAM = imag(sQAM);
 
 %DEMODULASI
+for snr=snr_vector
